@@ -13,4 +13,5 @@ def link
   puts help
 end
 
+def any_phrase()
   
